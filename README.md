@@ -8,7 +8,7 @@ All benchmarks run 100,000 log calls with I/O disabled (using NullIO) to measure
 
 ## Results
 
-https://www.structlog.org/en/stable/standard-library.html
+Following https://www.structlog.org/en/stable/standard-library.html
 
 ### 1. No Integration ([`no_integration.py`](no_integration.py))
 
@@ -32,9 +32,7 @@ https://www.structlog.org/en/stable/standard-library.html
 
 ## Optimised Results
 
-https://www.structlog.org/en/stable/performance.html
-
-Following [structlog performance recommendations](https://www.structlog.org/en/stable/performance.html):
+Following https://www.structlog.org/en/stable/performance.html
 
 ### 1. No Integration ([`no_integration_optimised.py`](no_integration_optimised.py))
 
